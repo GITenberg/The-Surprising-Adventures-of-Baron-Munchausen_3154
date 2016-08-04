@@ -1,0 +1,39 @@
+_repo: The-Surprising-Adventures-of-Baron-Munchausen_3154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raspe, Rudolf Erich
+    aliases:
+    - Raspe, R. E. (Rudolf Erich)
+    - Raspe, Rudolph Eric
+    birthdate: 1737
+    deathdate: 1794
+    gutenberg_agent_id: '1120'
+    url: http://www.gutenberg.org/2009/agents/1120
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Erich_Raspe
+description: It is a curious fact that of that class of literature to which Munchausen
+  belongs, that namely of Voyages Imaginaires, the three great types should have all
+  been created in England. Utopia, Robinson Crusoe, and Gulliver, illustrating respectively
+  the philosophical, the edifying, and the satirical type of fictitious travel, were
+  all written in England, and at the end of the eighteenth century a fourth type,
+  the fantastically mendacious, was evolved in this country. Of this type Munchausen
+  was the modern original, and remains the classical example. The adaptability of
+  such a species of compositi.
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Humorous stories'
+- !lcsh 'Fantasy'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'German wit and humor'
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- GITenberg
+title: The Surprising Adventures of Baron Munchausen
+url: http://www.gutenberg.org/ebooks/3154
