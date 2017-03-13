@@ -1,5 +1,8 @@
 _repo: The-Surprising-Adventures-of-Baron-Munchausen_3154
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Raspe, Rudolf Erich
@@ -19,6 +22,8 @@ description: It is a curious fact that of that class of literature to which Munc
   the fantastically mendacious, was evolved in this country. Of this type Munchausen
   was the modern original, and remains the classical example. The adaptability of
   such a species of compositi.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3154#The-Surprising-Adventures-of-Baron-Munchausen
 gutenberg_issued: '2006-04-06'
 gutenberg_type: Text
 identifiers:
